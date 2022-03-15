@@ -1,2 +1,2 @@
 # Calculadora
-Calculadora  m ambiente cliente servidor
+Calculadora  em ambiente cliente servidor
